@@ -20,6 +20,8 @@ to host our project nights. Month-to-month we’ll rotate between these great
 venues.
 
 - [AlphaSights](https://www.alphasights.com)
+- [Show My Homework](https://www.showmyhomework.co.uk)
+- [ThoughtBot](https://thoughtbot.com)
 - [Trouva](https://www.trouva.com)
 - [With Associates](http://withassociates.com)
 - [Zapnito](https://www.zapnito.com)
